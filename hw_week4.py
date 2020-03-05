@@ -1,7 +1,9 @@
 def hw_week4(name, age):
     # Your code here
-    name = input('Please input your name:')
-    age = input('Please input your age:')
+    
+    # For interactive input
+    #name = input('Please input your name:')
+    #age = input('Please input your age:')
 
     if name == 'Alice':
         print('Hi,Alice.')
