@@ -13,8 +13,8 @@ def hw_week4(name, age):
     
     elif int(age) > 100:
         print('You are not Alice, grannie.')
-    
-    print('No suitable result, program ends')
+    else:
+        print('No suitable result, program ends')
 
 
 if __name__ == '__main__':
